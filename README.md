@@ -1,6 +1,6 @@
 ## Vehicle-Plate-Recognition
 
-## Project: Vehicle Plate Recognition using CCTV surveillance
+## Project: Vehicle Plate Recognition
 
 ### Install
 
