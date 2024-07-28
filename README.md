@@ -11,7 +11,7 @@ This project requires **Python** and the following Python libraries installed:
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [YOLO v8](https://yolov8.com/)
-- [YOLO v9]([https://yolov8.com/](https://docs.ultralytics.com/models/yolov9/))
+- [YOLO v9](https://docs.ultralytics.com/models/yolov9/)
 - [EasyOcr](https://pypi.org/project/easyocr/)
 
 You must also install software to run and execute a [Google Colab](https://colab.research.google.com/).
