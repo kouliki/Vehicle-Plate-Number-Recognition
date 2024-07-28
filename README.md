@@ -25,11 +25,13 @@ Template code is provided in the `Licence_Plate_Detection_YOLO_V8.ipynb` noteboo
 In a terminal or command window, navigate to the top-level project directory `Licence_Plate_Detection_YOLO_V8.ipynb/` (that contains this README) and also `licence_plate_using_YOLO_V9.ipynb`and run one of the following commands:
 
 ```bash
-ipython notebook Resume_Screening.ipynb
+ipython notebook Licence_Plate_Detection_YOLO_V8.ipynb
+ipython notebook licence_plate_using_YOLO_V9.ipynb
 ```
 or
 ```bash
-jupyter notebook Resume_Screening.ipynb
+jupyter notebook Licence_Plate_Detection_YOLO_V8.ipynb
+jupyter notebook licence_plate_using_YOLO_V9.ipynb
 ```
 or open with Juoyter Lab
 ```bash
