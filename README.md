@@ -26,13 +26,22 @@ In a terminal or command window, navigate to the top-level project directory `Li
 
 ```bash
 ipython notebook Licence_Plate_Detection_YOLO_V8.ipynb
+
+```
+or
+```bash
 ipython notebook licence_plate_using_YOLO_V9.ipynb
 ```
 or
 ```bash
 jupyter notebook Licence_Plate_Detection_YOLO_V8.ipynb
+
+```
+or
+```bash
 jupyter notebook licence_plate_using_YOLO_V9.ipynb
 ```
+
 or open with Juoyter Lab
 ```bash
 jupyter lab
