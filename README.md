@@ -42,7 +42,7 @@ or
 jupyter notebook licence_plate_using_YOLO_V9.ipynb
 ```
 
-or open with Juoyter Lab
+or open with Jupyter Lab
 ```bash
 jupyter lab
 ```
